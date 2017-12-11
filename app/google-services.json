@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1078384695449",
+    "firebase_url": "https://bacsiviet-5c74e.firebaseio.com",
+    "project_id": "bacsiviet-5c74e",
+    "storage_bucket": "bacsiviet-5c74e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078384695449:android:7b27bb7282327740",
+        "android_client_info": {
+          "package_name": "com.popular_rice.bacsiviet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078384695449-ksl2ugeiq992sjnkd8ie9jbdd056aics.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.popular_rice.bacsiviet",
+            "certificate_hash": "f889381460b98173eeda8826d0cb9cfe64a457b7"
+          }
+        },
+        {
+          "client_id": "1078384695449-bp2i0lk3l4td9p12u8f2klke5jtr8lf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXjpK0UxuE1uBiZfxuERPTAIuass7ib3g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078384695449-bp2i0lk3l4td9p12u8f2klke5jtr8lf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
